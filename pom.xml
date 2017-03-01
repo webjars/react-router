@@ -25,9 +25,6 @@
             {
                 "paths": {
                     "react-router": "ReactRouter"
-                },
-                "shim": {
-                    "react-router": ["when", "events"]
                 }
             }
         </requirejs>
